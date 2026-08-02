@@ -1,0 +1,11 @@
+message_id,sender_id,group_id,raw_text,image_file,voice_file,label
+msg_001,sender_mom,,"Hey Saiteja, are you coming home for dinner tonight?",,,Notify
+msg_002,sender_spammer,group_promotions_spam,Claim your free $1000 gift card now! Limited availability.,promo_coupon.png,,Mute
+msg_003,sender_colleague,group_project_team,"Hey @saiteja, can you double-check the deadline for the model deployment tomorrow?",,,Notify
+msg_004,sender_stranger,,"Dear customer, your bank card is suspended. Please verify your OTP login code at http://secure-verify-otp-bank.com/online to restore.",,,Mute
+msg_005,sender_mom,group_family_chat,,,emergency_car.wav,Notify
+msg_006,sender_colleague,group_project_team,Here is the summary of the slides we discussed today.,meeting_slide.png,,Digest
+msg_007,sender_spammer,,Buy one get one free shoe coupons inside!,,,Mute
+msg_008,sender_colleague,group_gaming_guild,Anyone up for a CS2 match tonight?,,,Mute
+msg_009,sender_boss,,Did you submit the payment receipt for the client invoice?,,,Notify
+msg_010,sender_colleague,group_school_announcements,Note that the university exam schedules have been posted on the main board.,,,Digest

@@ -1,0 +1,25 @@
+{
+  "username": "Saiteja",
+  "user_handle": "@saiteja",
+  "vip_contacts": [
+    "sender_mom",
+    "sender_boss"
+  ],
+  "favorite_groups": [
+    "group_project_team",
+    "group_family_chat"
+  ],
+  "muted_groups": [
+    "group_promotions_spam",
+    "group_gaming_guild"
+  ],
+  "interests": [
+    "coding",
+    "ai",
+    "machine learning",
+    "hiking",
+    "deals",
+    "shoes"
+  ],
+  "ignores_promotions": true
+}

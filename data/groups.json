@@ -1,0 +1,32 @@
+{
+  "group_project_team": {
+    "name": "Q3 Planning Sync",
+    "category": "work",
+    "priority": "High",
+    "is_muted": false
+  },
+  "group_family_chat": {
+    "name": "Home Sweet Home",
+    "category": "family",
+    "priority": "High",
+    "is_muted": false
+  },
+  "group_promotions_spam": {
+    "name": "Flash Deals & Coupons",
+    "category": "promotions",
+    "priority": "Low",
+    "is_muted": true
+  },
+  "group_gaming_guild": {
+    "name": "CS2 Fragging",
+    "category": "society",
+    "priority": "Low",
+    "is_muted": true
+  },
+  "group_school_announcements": {
+    "name": "Uni-Class 2026",
+    "category": "school",
+    "priority": "Medium",
+    "is_muted": false
+  }
+}

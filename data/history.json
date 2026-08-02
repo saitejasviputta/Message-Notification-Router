@@ -1,0 +1,32 @@
+{
+  "sender_mom": {
+    "frequency_per_week": 45.0,
+    "reply_rate": 0.95,
+    "report_count": 0
+  },
+  "sender_boss": {
+    "frequency_per_week": 15.0,
+    "reply_rate": 0.85,
+    "report_count": 0
+  },
+  "sender_spammer": {
+    "frequency_per_week": 1.2,
+    "reply_rate": 0.0,
+    "report_count": 12
+  },
+  "sender_colleague": {
+    "frequency_per_week": 22.0,
+    "reply_rate": 0.7,
+    "report_count": 0
+  },
+  "sender_stranger": {
+    "frequency_per_week": 0.0,
+    "reply_rate": 0.0,
+    "report_count": 0
+  },
+  "sender_bank": {
+    "frequency_per_week": 2.0,
+    "reply_rate": 0.1,
+    "report_count": 0
+  }
+}

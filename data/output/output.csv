@@ -1,0 +1,11 @@
+message_id,decision,confidence,reasoning,label
+msg_001,Notify,90,Urgent request from VIP sender (Very Trusted). User attention required.,Notify
+msg_002,Mute,85,"Group is muted by the user, and no priority override triggers occurred.",Mute
+msg_003,Notify,80,High-relevance category group (work) containing active deadlines or questions.,Notify
+msg_004,Mute,95,Security threat detected: message contains OTP request or suspicious link patterns.,Mute
+msg_005,Notify,90,Urgent request from VIP sender (Very Trusted). User attention required.,Notify
+msg_006,Notify,80,High-relevance category group (work) containing active deadlines or questions.,Digest
+msg_007,Digest,70,Low urgency message with low personalized interest score. Routed to later summary digest.,Mute
+msg_008,Mute,85,"Group is muted by the user, and no priority override triggers occurred.",Mute
+msg_009,Notify,90,Urgent request from VIP sender (Very Trusted). User attention required.,Notify
+msg_010,Digest,75,Informational message from regular group/sender. Added to summary digest.,Digest

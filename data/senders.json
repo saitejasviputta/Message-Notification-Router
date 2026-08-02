@@ -1,0 +1,32 @@
+{
+  "sender_mom": {
+    "name": "Mom",
+    "is_verified": false,
+    "is_vip": true
+  },
+  "sender_boss": {
+    "name": "Boss (Manager)",
+    "is_verified": true,
+    "is_vip": true
+  },
+  "sender_spammer": {
+    "name": "MegaDeals Direct",
+    "is_verified": false,
+    "is_vip": false
+  },
+  "sender_colleague": {
+    "name": "Alice Developer",
+    "is_verified": false,
+    "is_vip": false
+  },
+  "sender_stranger": {
+    "name": "+1 415 555 0199",
+    "is_verified": false,
+    "is_vip": false
+  },
+  "sender_bank": {
+    "name": "Apex Trust Bank",
+    "is_verified": true,
+    "is_vip": false
+  }
+}
